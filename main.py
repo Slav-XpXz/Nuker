@@ -9,11 +9,11 @@ import colorama
 from colorama import Fore, Back, Style
 colorama.init()
 
-TOKEN = "ODQ3OTYyNjE4ODk0ODc2Njcy.YLFsug.xN3xvdmGlOL0USygynXfXCoG0WI"
+TOKEN = ""
 
-ServerName = "NUKED BY 503 SQUAD"
-ChannelName = "idfk"
-Message = "idk @everyone"
+ServerName = ""
+ChannelName = ""
+Message = ""
 
 @bot.event
 async def on_ready():
