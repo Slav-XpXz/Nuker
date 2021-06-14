@@ -1,0 +1,9 @@
+---Configure---
+to con figure this open up the python file and put in the
+-token of your bot
+-spammed channel name
+-spammed message
+-and server name change
+
+hope you enjoy!
+by XpXz on YT
